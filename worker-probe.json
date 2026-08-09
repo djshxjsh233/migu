@@ -1,0 +1,26 @@
+{
+  "ts": "2026-08-09T07:37:06.040Z",
+  "results": [
+    {
+      "name": "migu-home",
+      "code": 200,
+      "ms": 1615,
+      "len": 717736,
+      "head": "<!DOCTYPE html><html lang=\"en\"><head><me"
+    },
+    {
+      "name": "gslb-live",
+      "code": 660,
+      "ms": 2239,
+      "len": 0,
+      "head": ""
+    },
+    {
+      "name": "program-sc",
+      "code": 410,
+      "ms": 1199,
+      "len": 68,
+      "head": "{\"code\":410,\"message\":\"liveList is empty"
+    }
+  ]
+}

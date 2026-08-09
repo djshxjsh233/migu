@@ -1,0 +1,34 @@
+{
+  "央视频道": [
+    {"name": "CCTV-1 综合", "pID": "608807420", "assetID": "2201057821", "channel": "cctv1", "hdPath": "cctv1hd"},
+    {"name": "CCTV-2 财经", "pID": "631780532", "assetID": "5101064231", "channel": "cctv2", "hdPath": "cctv2hd"},
+    {"name": "CCTV-3 综艺", "pID": "624878271", "assetID": "5100001683", "channel": "cctv3", "hdPath": "cctv3hd"},
+    {"name": "CCTV-4 中文国际", "pID": "631780421", "assetID": "5101064235", "channel": "cctv4", "hdPath": "cctv4hd"},
+    {"name": "CCTV-5 体育", "pID": "641886683", "assetID": "5102048712", "channel": "cctv5", "hdPath": "cctv5hd"},
+    {"name": "CCTV-5+ 体育赛事", "pID": "641886773", "assetID": "5102048803", "channel": "cctv5plus", "hdPath": "cctv5phd"},
+    {"name": "CCTV-6 电影", "pID": "624878396", "assetID": "5100001694", "channel": "cctv6", "hdPath": "cctv6hd"},
+    {"name": "CCTV-7 国防军事", "pID": "673168121", "assetID": "5102910278", "channel": "cctv7", "hdPath": "cctv7hd"},
+    {"name": "CCTV-8 电视剧", "pID": "624878356", "assetID": "5100001695", "channel": "cctv8", "hdPath": "cctv8hd"},
+    {"name": "CCTV-9 纪录", "pID": "673168140", "assetID": "5102910384", "channel": "cctv9", "hdPath": "cctv9hd"},
+    {"name": "CCTV-10 科教", "pID": "624878405", "assetID": "5100001696", "channel": "cctv10", "hdPath": "cctv10hd"},
+    {"name": "CCTV-11 戏曲", "pID": "667987558", "assetID": "5102751362", "channel": "cctv11", "hdPath": "cctv11hd"},
+    {"name": "CCTV-12 社会与法", "pID": "673168185", "assetID": "5102910389", "channel": "cctv12", "hdPath": "cctv12hd"},
+    {"name": "CCTV-13 新闻", "pID": "608807423", "assetID": "2202208864", "channel": "cctv13", "hdPath": "cctv13hd"},
+    {"name": "CCTV-14 少儿", "pID": "624878440", "assetID": "5100001697", "channel": "cctv14", "hdPath": "cctv14hd"},
+    {"name": "CCTV-15 音乐", "pID": "673168223", "assetID": "5102910391", "channel": "cctv15", "hdPath": "cctv15hd"},
+    {"name": "CCTV-17 农业农村", "pID": "673168256", "assetID": "5102910396", "channel": "cctv17", "hdPath": "cctv17hd"},
+    {"name": "CCTV-4 欧洲", "pID": "608807419", "assetID": "2200179315", "channel": "cctveurope", "hdPath": "cctveuropehd"},
+    {"name": "CCTV-4 美洲", "pID": "608807416", "assetID": "2200179344", "channel": "cctvamerica", "hdPath": "cctvamericahd"},
+    {"name": "老故事", "pID": "884121956", "assetID": "5900006372", "channel": "laogushi", "hdPath": "laogushihd"},
+    {"name": "发现之旅", "pID": "624878970", "assetID": "5100001701", "channel": "faxianzhilv", "hdPath": "faxianzhilvhd"},
+    {"name": "中学生", "pID": "708869532", "assetID": "5900002149", "channel": "zhongxuesheng", "hdPath": "zhongxueshenghd"}
+  ],
+  "cgtn频道": [
+    {"name": "CGTN 英语", "pID": "609017205", "assetID": "2202196407", "channel": "cgtn", "hdPath": "cgtnhd"},
+    {"name": "CGTN 纪录", "pID": "609006487", "assetID": "2200179356", "channel": "cgtndoc", "hdPath": "cgtndochd"},
+    {"name": "CGTN 阿语", "pID": "609154345", "assetID": "2200179303", "channel": "cgtna", "hdPath": "cgtnahd"},
+    {"name": "CGTN 西语", "pID": "609006450", "assetID": "2200179337", "channel": "cgtnx", "hdPath": "cgtnxhd"},
+    {"name": "CGTN 法语", "pID": "609006476", "assetID": "2200179324", "channel": "cgtnf", "hdPath": "cgtnfhd"},
+    {"name": "CGTN 俄语", "pID": "609006446", "assetID": "2200179332", "channel": "cgtne", "hdPath": "cgtnehd"}
+  ]
+}

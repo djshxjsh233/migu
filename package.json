@@ -1,5 +1,16 @@
 {
+  "name": "migu-cctv-live-tvbox",
+  "version": "1.0.0",
+  "description": "咪咕央视直播源自动刷新 → TVBox 直播源 (GitHub Actions 定时更新)",
+  "main": "refresh.js",
+  "scripts": {
+    "refresh": "node refresh.js",
+    "refresh:one": "node refresh.js --only=cctv1"
+  },
   "dependencies": {
-    "node-fetch": "^2.7.0"
+    "puppeteer-core": "^22.0.0"
+  },
+  "engines": {
+    "node": ">=18"
   }
 }

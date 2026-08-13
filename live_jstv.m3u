@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 group-title="江苏广电" tvg-name="江苏卫视",江苏卫视
+https://litchi-play-encrypted-site.jstv.com/applive/jswspro.m3u8?txSecret=d23377cba2fa306ee3790b63eb337fcd&txTime=6a7d6c87#Referer#https://live.jstv.com/
+#EXTINF:-1 group-title="江苏广电" tvg-name="江苏卫视4K超高清",江苏卫视4K超高清
+https://litchi-play-encrypted-site.jstv.com/4klive/jsws4kpro.m3u8?txSecret=c4b1d679883aa371ac7389df5c516472&txTime=6a7d6c87#Referer#https://live.jstv.com/
+#EXTINF:-1 group-title="江苏广电" tvg-name="江苏城市",江苏城市
+https://litchi-play-encrypted-site.jstv.com/applive/jscspro.m3u8?txSecret=3b481c80ca575c4b3f09004a2315e8b7&txTime=6a7d6c88#Referer#https://live.jstv.com/
+#EXTINF:-1 group-title="江苏广电" tvg-name="江苏综艺",江苏综艺
+https://litchi-play-encrypted-site.jstv.com/applive/jszypro.m3u8?txSecret=cc4455873dc89bb48a58d891028ebb7a&txTime=6a7d6c88#Referer#https://live.jstv.com/
+#EXTINF:-1 group-title="江苏广电" tvg-name="江苏影视",江苏影视
+https://litchi-play-encrypted-site.jstv.com/applive/jsyspro.m3u8?txSecret=d5b8a11f2fd2356c239e07c4e75cf31a&txTime=6a7d6c89#Referer#https://live.jstv.com/
+#EXTINF:-1 group-title="江苏广电" tvg-name="江苏新闻",江苏新闻
+https://litchi-play-encrypted-site.jstv.com/applive/jsxwpro.m3u8?txSecret=4c556abbb92c0e05a2a7911bc5015de7&txTime=6a7d6c89#Referer#https://live.jstv.com/
+#EXTINF:-1 group-title="江苏广电" tvg-name="江苏教育",江苏教育
+https://litchi-play-encrypted-site.jstv.com/applive/jsjypro.m3u8?txSecret=12dbed054065f4da774c023f59f7f6d9&txTime=6a7d6c8a#Referer#https://live.jstv.com/
+#EXTINF:-1 group-title="江苏广电" tvg-name="体育休闲",体育休闲
+https://litchi-play-encrypted-site.jstv.com/applive/jsxxpro.m3u8?txSecret=59cfe60f10c5088fc5c7041e8fea375c&txTime=6a7d6c8a#Referer#https://live.jstv.com/
+#EXTINF:-1 group-title="江苏广电" tvg-name="优漫卡通",优漫卡通
+https://litchi-play-encrypted-site.jstv.com/applive/ymktpro.m3u8?txSecret=28844e6a100c34c4653bff3a9f823963&txTime=6a7d6c8b#Referer#https://live.jstv.com/
+#EXTINF:-1 group-title="江苏广电" tvg-name="江苏国际",江苏国际
+https://litchi-play-encrypted-site.jstv.com/applive/jsgjpro.m3u8?txSecret=b43c0ee0cae7d9452921c3963bd589a0&txTime=6a7d6c8b#Referer#https://live.jstv.com/
